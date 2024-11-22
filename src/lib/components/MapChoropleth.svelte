@@ -33,6 +33,7 @@
 	let height = 600;
 	let paddingMap;
 	let center;
+	let maxValue;
 	let scaleMin, scaleMax;
 
 	export let legend;
@@ -145,10 +146,15 @@
 
 				// Set color scale domain and range
 				if (config.datasetType == 'values') {
-					colorScale.domain(extent(extentArray)).range(colorScheme);
-					clusters = colorScale.quantiles();
-					scaleMin = min(extentArray);
-					scaleMax = max(extentArray);
+				    colorScale.domain(extent(extentArray)).range(colorScheme);
+				    clusters = colorScale.quantiles();
+				    scaleMin = 0; // min(extentArray);
+
+				    // Bestimme scaleMax dynamisch auf die nächsthöhere Größenordnung
+				    const maxValue = max(extentArray); // Maximalwert im Datensatz
+				    const magnitude = Math.pow(10, Math.floor(Math.log10(maxValue))); // Dynamische Größenordnung
+				    scaleMax = Math.ceil(maxValue / magnitude) * magnitude; // Runden auf nächsthöhere Größenordnung
+
 				} else {
 					clusters = [];
 				}
