@@ -1,6 +1,6 @@
 {
-  "heading": "Kui suur oli kalasaak EL 27s?",
-  "subheading": "ELi püük 2023. aastal oli hinnanguliselt 3,3 miljonit tonni eluskaalu, mis jätkab 2018. aastast 28,6% suurust langust.",
+  "heading": "Milline oli kalapüügi tase EL 27s?",
+  "subheading": "2023. aastal on ELi püük hinnanguliselt 3,3 miljonit tonni eluskaalus. See jätkab alates 2018. aastast registreeritud 28,6% langustrendi.",
   "legend1": "Andmed puuduvad",
   "tooltip1": "Eluskaalu tonni",
   "textSourceDescription": "Allikas",
@@ -9,23 +9,5 @@
   "textNote": "Kalasaak hõlmab kalu, molluskeid, vähilaadseid ja muid veeloomi, jääke ja veetaimi, mida püüavad igat tüüpi ja klassi laevad, püügivahendid ja kalurid kõigis seitsmes ELi statistikaeeskirjadega hõlmatud merealal. Need hõlmavad saaki avamere püügipiirkondades, avamerel, rannikul või riimveekogudel. Välja on arvatud vesiviljelusest saadud toodang ja magevees püütud saak.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/fish_ca_main/default/table?lang=en",
-  "textCountryClick": "Lisateabe saamiseks klõpsake",
-  "extraInfoText_BE": "Kuna ühehäälsuse vajadus põhjustab paljudes valdkondades bürokraatlikku kitsaskohta, on teatud loogika liikuda võimaluse korral kvalifitseeritud häälteenamusega hääletamise suunas. Praktikas on kvalifitseeritud häälteenamus see, kui 15 liikmesriiki 27-st hääletavad millegi poolt, kui nad koos esindavad rohkem kui 65 protsenti ELi 450 miljonist kodanikust.",
-  "extraInfoLink_BE": "Loe edasi",
-  "extraInfoText_DE": "Tõenäoliselt pole juhus, et vaid kaks päeva hiljem teatas Euroopa Komisjon, et käivitab lõpuks tingimuslikkuse mehhanismi, mis seob ELi raha maksmise õigusriigi põhimõtete järgimisega. Budapesti kritiseeritakse meediavabaduse piiramise, huvide konflikti ja korruptsiooni pärast.",
-  "extraInfoLink_DE": "Loe edasi",
-  "extraInfoText_ES": "",
-  "extraInfoLink_ES": "",
-  "extraInfoText_FR": "Sellega seoses on Bulgaaria valitsus loonud uue meediaseireüksuse. Uus üksus on loodud jälgima kõiki meediavorme suunatud desinformatsiooni suhtes, kuid erinevalt riigi sõltumatust elektroonilise meedia nõukogust ei ole tal õigust reguleerida ega karistada. Ja ega peakski, rõhutab Bozhanov Bulgaaria rahvusraadio intervjuus.",
-  "extraInfoLink_FR": "",
-  "extraInfoText_IT": "Sloveenia välisministeeriumi riigisekretär ja konverentsikomisjoni liige Gašper Dovžan ütleb, et Sloveenia kindlasti ei kohku tagasi julgete otsuste ees ega lükka tagasi võimalust liikuda kvalifitseeritud häälteenamuse poole. Samas usub ta, et konsensuslikul otsustamisel on veel kohta.",
-  "extraInfoLink_IT": "Rohkem infot",
-  "extraInfoText_LU": "Ometi on Luksemburgi parlamendiliige Marc Angel veendunud, et lepingumuudatused on hädavajalikud – mitte ainult selleks, et muuta otsustamismenetlused vähem kohmakaks, vaid ka selleks, et laiendada ELi pädevusvaldkonda. Ta kinnitab intervjuus Luksemburgi rahvusringhäälingule 100,7, et ELi kodanikud küsisid seda konverentsi käigus selgelt.",
-  "extraInfoLink_LU": "Loe edasi",
-  "extraInfoText_PL": "Vilniuse ülikooli politoloogiaprofessor Liutauras Gudzinskas ütleb Žinių Radijasele, et kuigi Euroopa Komisjoni ettepanek tugevdada meedia pluralismi ja sõltumatust ning kaitsta seda poliitiliste või äriliste sekkumiste eest võib olla kasulik ennetusvahend paljudes riikides, on see tõenäoline. Ungari jaoks liiga hilja.",
-  "extraInfoLink_PL": "Rohkem infot",
-  "extraInfoText_RO": "Kuigi ülemaailmne pressivabaduse päev on 3. mail, tähistatakse Leedus ajakirjandusvabadust igal aastal 7. mail – kuna see kuupäev tähistab tsaariaegse leedukeelsete raamatute väljaandmise ja levitamise keelu lõppu.",
-  "extraInfoLink_RO": "Kontrollige seda",
-  "extraInfoText_SE": "",
-  "extraInfoLink_SE": ""
+  "textCountryClick": "Lisateabe saamiseks klõpsake"
 }
