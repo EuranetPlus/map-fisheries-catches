@@ -2,11 +2,11 @@
   "heading": "Milline oli kalapüügi tase EL 27s?",
   "subheading": "2023. aastal on ELi püük hinnanguliselt 3,3 miljonit tonni eluskaalus. See jätkab alates 2018. aastast registreeritud 28,6% langustrendi.",
   "legend1": "Andmed puuduvad",
-  "tooltip1": "Eluskaalu tonni",
+  "tooltip1": "tonni eluskaalus",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
   "textNoteDescription": "Märkus",
-  "textNote": "Kalasaak hõlmab kalu, molluskeid, vähilaadseid ja muid veeloomi, jääke ja veetaimi, mida püüavad igat tüüpi ja klassi laevad, püügivahendid ja kalurid kõigis seitsmes ELi statistikaeeskirjadega hõlmatud merealal. Need hõlmavad saaki avamere püügipiirkondades, avamerel, rannikul või riimveekogudel. Välja on arvatud vesiviljelusest saadud toodang ja magevees püütud saak.",
+  "textNote": "Kalasaak hõlmab kalu, molluskeid, vähilaadseid ja muid veeloomi, jääke ja veetaimi, mida püüavad igat tüüpi ja klassi laevad, püügivahendid ja kalurid kõigis seitsmes ELi statistikaeeskirjadega hõlmatud merealal. Need hõlmavad püüki avamere püügipiirkondades, avamerel, rannikul või riimveekogudel. Välja on arvatud vesiviljelusest saadud toodang ja püük magevees.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/fish_ca_main/default/table?lang=en",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

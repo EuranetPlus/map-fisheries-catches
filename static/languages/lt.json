@@ -2,11 +2,11 @@
   "heading": "Koks buvo žuvų sugavimo lygis 27 ES šalyse?",
   "subheading": "Apskaičiuota, kad 2023 m. ES sužvejotų 3,3 mln. tonų gyvojo svorio. Tai tęsia 28,6% mažėjimo tendenciją, užfiksuotą nuo 2018 m.",
   "legend1": "Nėra duomenų",
-  "tooltip1": "Tonų gyvojo svorio",
+  "tooltip1": "tonų gyvojo svorio",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
-  "textNote": "Žuvų laimikis apima žuvis, moliuskus, vėžiagyvius ir kitus vandens gyvūnus, likučius ir vandens augalus, kurie sugaunami bet kokiais tikslais, visų tipų ir klasių laivais, įrankiais ir žvejais, žvejojamais visose septyniose jūrų zonose, kurioms teisiškai taikomi ES statistikos reglamentai. Jie apima laimikį atviroje jūroje, atviroje jūroje, pakrantėje arba sūraus vandens zonose. Akvakultūros produkcija ir gėlame vandenyje sužvejoti produktai neįtraukiami.",
+  "textNote": "Žuvų laimikis apima žuvis, moliuskus, vėžiagyvius ir kitus vandens gyvūnus, likučius ir vandens augalus, kurie sugaunami bet kokiais tikslais, visų tipų ir klasių laivais, įrankiais ir žvejais, žvejojamais visose septyniose jūrų zonose, kurioms teisiškai taikomi ES statistikos reglamentai. Jie apima laimikį atviroje jūroje, atviroje jūroje, pakrantėje arba sūriuose vandenyse. Akvakultūros produkcija ir gėlame vandenyje sužvejoti produktai neįtraukiami.",
   "textDataAccess": "Pasiekite duomenis",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/fish_ca_main/default/table?lang=en",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
