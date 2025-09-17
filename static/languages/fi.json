@@ -1,13 +1,13 @@
 {
-  "heading": "Mikä oli kalasaaliiden taso EU27:ssä?",
-  "subheading": "Vuonna 2023 EU:n saaliiden arvioidaan olevan 3,3 miljoonaa tonnia elopainoa. Tämä jatkaa 28,6 prosentin laskutrendiä vuodesta 2018 lähtien.",
-  "legend1": "Tietoja ei ole saatavilla",
+  "heading": "Mikä oli kalansaalien taso EU27-alueella?",
+  "subheading": "Vuonna 2023 EU:n saaliiden arvioidaan olevan 3,3 miljoonaa tonnia elopainona. Tämä jatkaa vuodesta 2018 lähtien havaittua 28,6 prosentin laskusuuntaa.",
+  "legend1": "Ei tietoja saatavilla",
   "tooltip1": "tonnia elopainoa",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat",
-  "textNoteDescription": "Huom",
-  "textNote": "Kalasaaliit kattavat kalat, nilviäiset, äyriäiset ja muut vesieläimet, jäämät ja vesikasvit, jotka on pyydetty kaikkiin tarkoituksiin, kaikentyyppisten ja -luokkien alusten, pyydysten ja kalastajien toimesta kaikilla seitsemällä EU:n tilastomääräysten piiriin kuuluvalla merialueella. Ne kattavat saaliit avomeren kalastusalueilla, offshore-, rannikko- tai murtovesialueilla. Vesiviljelystä saatu tuotanto ja makeassa vedessä saaliit eivät kuulu tähän.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Kalasaaliit kattavat kalat, nilviäiset, äyriäiset ja muut vesieläimet, niiden jäämät ja vesikasvit, jotka on pyydetty kaikkiin tarkoituksiin kaikentyyppisillä ja -luokilla aluksilla, pyydyksillä ja kalastajilla kaikilla seitsemällä EU:n tilastosäännösten kattamalla merialueella. Ne kattavat saaliit avomerellä, avomerellä, rannikkoalueilla tai murtovesialueilla. Vesiviljelyn tuotanto ja makean veden saaliit eivät sisälly tähän.",
   "textDataAccess": "Käytä tietoja",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/fish_ca_main/default/table?lang=fi",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/fish_ca_main/default/table?lang=en",
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "X'kien il-livell tal-qabdiet tal-ħut fl-UE27?",
-  "subheading": "Fl-2023, il-qabdiet tal-UE huma stmati għal 3.3 miljun tunnellata piż ħaj. Dan ikompli t-tendenza 'l isfel ta' 28.6% irreġistrata mill-2018.",
-  "legend1": "Ebda data disponibbli",
+  "heading": "X'kien il-livell ta' qabdiet ta' ħut fl-UE27?",
+  "subheading": "Fl-2023, il-qabdiet tal-UE huma stmati għal 3.3 miljun tunnellata piż ħaj. Dan ikompli x-xejra 'l isfel ta' 28.6% irreġistrata mill-2018.",
+  "legend1": "L-ebda dejta disponibbli",
   "tooltip1": "tunnellati piż ħaj",
   "textSourceDescription": "Sors",
-  "textSource": "Eurostat",
+  "textSource": "L-Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Il-qabdiet tal-ħut ikopru ħut, molluski, krustaċji u annimali akkwatiċi oħra, residwi u pjanti akkwatiċi li jittieħdu għall-iskopijiet kollha, minn kull tip u klassi ta’ bastiment, irkaptu u sajjieda, operati fis-seba’ żoni marittimi kollha legalment koperti mir-regolamenti statistiċi tal-UE. Huma jkopru qabdiet f'żoni tas-sajd tal-baħar miftuħ, żoni offshore, kosta jew salmastru. Il-produzzjoni mill-akkwakultura u l-qabdiet fl-ilma ħelu huma esklużi.",
-  "textDataAccess": "Aċċessa għad-data",
+  "textNote": "Il-qabdiet tal-ħut ikopru ħut, molluski, krustaċji u annimali akkwatiċi oħra, residwi u pjanti akkwatiċi li jittieħdu għal kull skop, minn kull tip u klassi ta’ bastiment, tagħmir u sajjieda, li joperaw fis-seba’ żoni marini kollha legalment koperti mir-regolamenti statistiċi tal-UE. Dawn ikopru qabdiet f’żoni tas-sajd f’baħar miftuħ, żoni ’l barra mill-kosta, żoni qrib il-kosta jew żoni ta’ ilma salmastru. Il-produzzjoni mill-akkwakultura u l-qabdiet fl-ilma ħelu huma esklużi.",
+  "textDataAccess": "Aċċessa d-dejta",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/fish_ca_main/default/table?lang=en",
-  "textCountryClick": "Ikklikkja għal aktar informazzjoni"
+  "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }

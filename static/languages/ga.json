@@ -1,13 +1,13 @@
 {
-  "heading": "Cén leibhéal gabhálacha éisc san AE27?",
-  "subheading": "In 2023, meastar gurb ionann gabhálacha AE agus 3.3 milliún tona beomheáchan. Leanann sé seo leis an treocht anuas de 28.6% a taifeadadh ó 2018.",
+  "heading": "Cén leibhéal gabhála éisc a bhí san AE27?",
+  "subheading": "Meastar go mbeidh gabhálacha an AE ag 3.3 milliún tonna de mheáchan beo in 2023. Leanann sé seo an treocht anuas de 28.6% a taifeadadh ó 2018.",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltip1": "tonna meáchan beo",
+  "tooltip1": "tonna meáchain bheo",
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat",
   "textNoteDescription": "Nóta",
-  "textNote": "Clúdaíonn gabhálacha éisc éisc, moilisc, crústaigh agus ainmhithe uisceacha eile, iarmhair agus gléasraí uisceacha a thógtar chun gach críche, ag gach cineál agus aicme soithigh, trealaimh agus iascairí, a oibrítear sna seacht limistéar muirí go léir atá clúdaithe go dlíthiúil ag rialacháin staidrimh an AE. Clúdaíonn siad gabhálacha i limistéir iascaireachta ardfharraige, amach ón gcósta, cois cladaigh nó limistéir uisce goirt. Eisiatar táirgeadh ó dhobharshaothrú agus ó ghabhálacha fionnuisce.",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/fish_ca_main/default/table?lang=ga",
+  "textNote": "Cumhdaíonn gabhálacha éisc iasc, moilisc, crústaigh agus ainmhithe uisceacha eile, iarmhair agus plandaí uisceacha a thógtar chun gach críche, ag gach cineál agus aicme soithigh, trealaimh agus iascairí, a oibrítear sna seacht limistéar muirí go léir atá cumhdaithe go dleathach ag rialacháin staidrimh an AE. Cumhdaíonn siad gabhálacha i limistéir iascaireachta arda farraige, amach ón gcósta, cladaigh nó in uisce goirt. Ní áirítear an táirgeadh ó dhobharshaothrú ná gabhálacha in uisce úr.",
+  "textDataAccess": "Rochtain ar na sonraí",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/fish_ca_main/default/table?lang=en",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

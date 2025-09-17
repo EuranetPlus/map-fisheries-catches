@@ -1,13 +1,13 @@
 {
-  "heading": "Qual è stato il livello delle catture ittiche nell'UE27?",
-  "subheading": "Nel 2023, le catture dell'UE sono stimate in 3,3 milioni di tonnellate di peso vivo. Ciò continua la tendenza al ribasso del 28,6% registrata dal 2018.",
+  "heading": "Qual è stato il livello delle catture di pesce nell'UE27?",
+  "subheading": "Nel 2023, le catture nell'UE sono stimate a 3,3 milioni di tonnellate di peso vivo, confermando la tendenza al ribasso del 28,6% registrata dal 2018.",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "tonnellate di peso vivo",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Le catture di pesce comprendono pesci, molluschi, crostacei e altri animali acquatici, residui e piante acquatiche che vengono catturati per qualsiasi scopo, da tutti i tipi e classi di imbarcazioni, attrezzi e pescatori, operati in tutte le sette aree marine legalmente coperte dalle normative statistiche dell'UE. Comprendono le catture nelle zone di pesca d'altura, al largo, costiere o in acque salmastre. Sono escluse la produzione da acquacoltura e le catture in acqua dolce.",
+  "textNote": "Le catture di pesce comprendono pesci, molluschi, crostacei e altri animali acquatici, residui e piante acquatiche catturati per qualsiasi scopo, da tutti i tipi e classi di imbarcazioni, attrezzi e pescatori, operanti in tutte le sette aree marine legalmente coperte dalla normativa statistica dell'UE. Comprendono le catture nelle zone di pesca d'altura, al largo, costiere o in acque salmastre. Sono escluse la produzione di acquacoltura e le catture in acqua dolce.",
   "textDataAccess": "Accedi ai dati",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/fish_ca_main/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/fish_ca_main/default/table?lang=it",
   "textCountryClick": "Clicca per maggiori informazioni"
 }

@@ -1,13 +1,13 @@
 {
   "heading": "Kolika je bila razina ulova ribe u EU27?",
-  "subheading": "Godine 2023. ulovi u EU-u procjenjuju se na 3,3 milijuna tona žive vage. Time se nastavlja trend pada od 28,6% zabilježen od 2018.",
+  "subheading": "Procjenjuje se da je ulov u EU-u 2023. godine iznosio 3,3 milijuna tona žive vage. Time se nastavlja trend pada od 28,6 % zabilježen od 2018. godine.",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "tona žive vage",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "textNoteDescription": "Bilješka",
-  "textNote": "Ulov ribe obuhvaća ribu, mekušce, rakove i druge vodene životinje, ostatke i vodene biljke koje se hvataju za sve namjene, svim vrstama i klasama plovila, alata i ribara, koji djeluju u svih sedam morskih područja zakonski obuhvaćenih statističkim propisima EU-a. Obuhvaćaju ulove u ribolovnim područjima na otvorenom moru, pučini, obalnim ili slanim vodenim područjima. Proizvodnja iz akvakulture i ulov u slatkoj vodi su isključeni.",
-  "textDataAccess": "Pristupite podacima",
+  "textNote": "Ulov ribe obuhvaća ribe, mekušce, rakove i ostale vodene životinje, ostatke i vodene biljke koje se love u sve svrhe, svim vrstama i klasama plovila, alata i ribara, koji posluju u svih sedam morskih područja zakonski obuhvaćenih statističkim propisima EU-a. Obuhvaća ulov u ribolovnim područjima otvorenog mora, na otvorenom moru, u priobalju ili područjima bočate vode. Proizvodnja iz akvakulture i ulov u slatkoj vodi su isključeni.",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/fish_ca_main/default/table?lang=en",
   "textCountryClick": "Kliknite za više informacija"
 }

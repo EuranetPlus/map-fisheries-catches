@@ -1,12 +1,12 @@
 {
-  "heading": "Wie hoch war die Fischfangmenge in der EU27?",
+  "heading": "Wie hoch war der Fischfang in der EU27?",
   "subheading": "Im Jahr 2023 werden die Fänge der EU auf 3,3 Millionen Tonnen Lebendgewicht geschätzt. Damit setzt sich der seit 2018 verzeichnete Abwärtstrend von 28,6 % fort.",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "Tonnen Lebendgewicht",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
-  "textNote": "Fischfänge umfassen Fische, Weichtiere, Krebstiere und andere Wassertiere, Rückstände und Wasserpflanzen, die für alle Zwecke von allen Arten und Klassen von Schiffen, Fanggeräten und Fischern gefangen werden, die in allen sieben Meeresgebieten tätig sind, die gesetzlich durch die statistischen Verordnungen der EU abgedeckt sind. Sie umfassen Fänge in Hochseefischereigebieten, Offshore-, Küsten- oder Brackwassergebieten. Die Produktion aus Aquakultur und Fänge in Süßwasser sind nicht inbegriffen.",
+  "textNote": "Die Fischfänge umfassen Fische, Weichtiere, Krebstiere und andere Wassertiere, Rückstände und Wasserpflanzen, die zu allen Zwecken von Schiffen aller Art und Klasse, mit allen Fanggeräten und Fischern in allen sieben Meeresgebieten, die gesetzlich durch die EU-Statistikverordnungen abgedeckt sind, gefangen werden. Sie umfassen Fänge in Hochseefischereigebieten, Offshore-, Küsten- und Brackwassergebieten. Die Produktion aus Aquakultur und Fänge in Süßwasser sind nicht erfasst.",
   "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/fish_ca_main/default/table?lang=en",
   "textCountryClick": "Klicken Sie hier für weitere Informationen"

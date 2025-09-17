@@ -1,12 +1,12 @@
 {
   "heading": "Qual foi o nível de capturas de peixes na UE27?",
-  "subheading": "Em 2023, as capturas da UE são estimadas em 3,3 milhões de toneladas de peso vivo. Isso continua a tendência de queda de 28,6% registrada desde 2018.",
-  "legend1": "Não há dados disponíveis",
+  "subheading": "Em 2023, as capturas da UE são estimadas em 3,3 milhões de toneladas de peso vivo. Isso mantém a tendência de queda de 28,6% registrada desde 2018.",
+  "legend1": "Nenhum dado disponível",
   "tooltip1": "toneladas de peso vivo",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Observação",
-  "textNote": "As capturas de peixes abrangem peixes, moluscos, crustáceos e outros animais aquáticos, resíduos e plantas aquáticas que são capturados para todos os fins, por todos os tipos e classes de embarcações, equipamentos e pescadores, operados em todas as sete áreas marinhas legalmente cobertas pelos regulamentos estatísticos da UE. Elas abrangem capturas em áreas de pesca em alto mar, áreas de águas costeiras, costeiras ou salobras. A produção da aquicultura e as capturas em água doce são excluídas.",
+  "textNote": "As capturas de peixe abrangem peixes, moluscos, crustáceos e outros animais aquáticos, resíduos e plantas aquáticas, capturados para todos os fins, por todos os tipos e classes de embarcações, artes e pescadores, em todas as sete áreas marinhas legalmente abrangidas pelos regulamentos estatísticos da UE. Abrangem as capturas em zonas de pesca de alto mar, em alto mar, em águas costeiras ou em águas salobras. A produção da aquicultura e as capturas em água doce são excluídas.",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/fish_ca_main/default/table?lang=en",
   "textCountryClick": "Clique para mais informações"

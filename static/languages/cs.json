@@ -1,13 +1,13 @@
 {
-  "heading": "Jaká byla úroveň úlovků ryb v EU27?",
-  "subheading": "V roce 2023 se úlovky EU odhadují na 3,3 milionu tun živé hmotnosti. Pokračuje tak klesající trend o 28,6 % zaznamenaný od roku 2018.",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "heading": "Jaká byla úroveň úlovků ryb v EU-27?",
+  "subheading": "V roce 2023 se odhadují úlovky v EU na 3,3 milionu tun živé hmotnosti. To pokračuje v klesajícím trendu o 28,6 % zaznamenaném od roku 2018.",
+  "legend1": "Nejsou k dispozici žádná data",
   "tooltip1": "tun živé hmotnosti",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Rybí úlovky zahrnují ryby, měkkýše, korýše a další vodní živočichy, zbytky a vodní rostliny, které jsou loveny pro všechny účely, všemi typy a třídami plavidel, zařízení a rybářů provozovaných ve všech sedmi mořských oblastech, na které se právně vztahují statistické předpisy EU. Zahrnují úlovky v oblastech rybolovu na volném moři, v pobřežních, pobřežních nebo brakických vodách. Produkce z akvakultury a úlovky ve sladké vodě jsou vyloučeny.",
+  "textNote": "Úlovky ryb zahrnují ryby, měkkýše, korýše a další vodní živočichy, zbytky a vodní rostliny, které jsou odloveny pro všechny účely, všemi typy a třídami plavidel, zařízení a rybáři, kteří provozují rybolov ve všech sedmi mořských oblastech, na které se vztahují statistické předpisy EU. Zahrnují úlovky v oblastech rybolovu na volném moři, v pobřežních oblastech nebo v oblastech s brakickou vodou. Produkce z akvakultury a úlovky ve sladké vodě jsou vyloučeny.",
   "textDataAccess": "Přístup k datům",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/fish_ca_main/default/table?lang=cs",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/fish_ca_main/default/table?lang=en",
   "textCountryClick": "Klikněte pro více informací"
 }
