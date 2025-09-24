@@ -1,12 +1,12 @@
 {
   "heading": "What was the level of fish catches in the EU27?",
-  "subheading": "In 2023, EU catches are estimated at 3.3 million tonnes live weight. This continues the downward trend of 28.6% recorded since 2018.",
+  "subheading": "In 2024, EU catches are estimated at 1.9 million tonnes live weight. This continues the downward trend recorded since 2018.",
   "legend1": "No data available",
   "tooltip1": "tonnes live weight",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Fish catches cover fish, molluscs, crustaceans and other aquatic animals, residues and aquatic plants that are taken for all purposes, by all types and class of vessel, gear and fishermen, operated in all the seven marine areas legally covered by EU statistical regulations. They cover catches in high-sea fishing areas, offshore, inshore or brackish water areas. The production from aquaculture and catches in fresh water are excluded.",
+  "textNote": "2024 Data for Spain, Portugal and Italy are confidential. Fish catches cover fish, molluscs, crustaceans and other aquatic animals, residues and aquatic plants that are taken for all purposes, by all types and class of vessel, gear and fishermen, operated in all the seven marine areas legally covered by EU statistical regulations. They cover catches in high-sea fishing areas, offshore, inshore or brackish water areas. The production from aquaculture and catches in fresh water are excluded.",
   "textDataAccess": "Access the data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/fish_ca_main/default/table?lang=en",
   "textCountryClick": "Click for more info"
