@@ -6,7 +6,7 @@
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
   "textNoteDescription": "Jegyzet",
-  "textNote": "A 2024-es spanyol, portugál és olasz adatok bizalmasak. A halfogás magában foglalja a halakat, puhatestűeket, rákféléket és más vízi állatokat, maradványokat és vízinövényeket, amelyeket bármilyen célra kifognak, minden típusú és osztályú hajó, felszerelés és halász, akiket az uniós statisztikai szabályozások által jogilag lefedett mind a hét tengeri területen működtetnek. Magában foglalja a nyílt tengeri halászati területeken, a tengeri, a part menti vagy a brakkvízi területeken fogott fogásokat. Az akvakultúra-termelés és az édesvízi fogások nem tartoznak ide.",
+  "textNote": "A 2024-es spanyol, portugál és olasz adatok bizalmasak. A halfogás magában foglalja a halakat, puhatestűeket, rákféléket és más vízi állatokat, maradványokat és vízinövényeket, amelyeket bármilyen célra, minden típusú és osztályú hajó, felszerelés és halász fogott, mind a hét, az uniós statisztikai szabályozások által jogilag lefedett tengeri területen. Magában foglalja a nyílt tengeri halászati területeken, a tengeri, part menti vagy brakkvízi területeken fogott fogásokat. Az akvakultúra-termelés és az édesvízi fogások nem tartoznak ide.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/fish_ca_main/default/table?lang=en",
   "textCountryClick": "Kattintson a további információkért"
