@@ -1,12 +1,12 @@
 {
   "heading": "Kāds bija zivju nozvejas līmenis ES 27 valstīs?",
-  "subheading": "2023. gadā ES nozveja tiek lēsta 3,3 miljonu tonnu dzīvsvara apmērā. Tas turpina kopš 2018. gada reģistrēto lejupejošo tendenci par 28,6 %.",
+  "subheading": "2024. gadā ES nozveja tiek lēsta 1,9 miljonu tonnu dzīvsvara apmērā. Tas turpina lejupejošo tendenci, kas reģistrēta kopš 2018. gada.",
   "legend1": "Dati nav pieejami",
   "tooltip1": "dzīvsvara tonnas",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat",
   "textNoteDescription": "Piezīme",
-  "textNote": "Zivju nozveja ietver zivis, gliemenes, vēžveidīgos un citus ūdensdzīvniekus, atliekas un ūdensaugus, ko visiem mērķiem nozvejo visu veidu un klašu kuģi, rīki un zvejnieki, kas darbojas visās septiņās jūras teritorijās, uz kurām attiecas ES statistikas noteikumi. Tā ietver nozveju tāljūras zvejas apgabalos, atklātā jūrā, piekrastes vai iesāļūdens apgabalos. Akvakultūras produkcija un nozveja saldūdenī netiek iekļauta.",
+  "textNote": "2024. gada dati par Spāniju, Portugāli un Itāliju ir konfidenciāli. Zivju nozveja ietver zivis, gliemenes, vēžveidīgos un citus ūdensdzīvniekus, atliekas un ūdensaugus, kas nozvejoti visiem mērķiem, izmantojot visu veidu un klašu kuģus, rīkus un zvejniekus, kas darbojas visās septiņās jūras teritorijās, uz kurām attiecas ES statistikas noteikumi. Tā ietver nozveju tāljūras zvejas apgabalos, atklātā jūrā, piekrastes vai iesāļūdens apgabalos. Akvakultūras produkcija un nozveja saldūdenī nav iekļauta.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/fish_ca_main/default/table?lang=en",
   "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"

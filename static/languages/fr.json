@@ -1,12 +1,12 @@
 {
   "heading": "Quel était le niveau des captures de poissons dans l’UE27 ?",
-  "subheading": "En 2023, les captures de l'UE sont estimées à 3,3 millions de tonnes de poids vif. Cela confirme la tendance à la baisse de 28,6 % observée depuis 2018.",
+  "subheading": "En 2024, les captures de l'UE sont estimées à 1,9 million de tonnes de poids vif. Cela confirme la tendance à la baisse observée depuis 2018.",
   "legend1": "Aucune donnée disponible",
   "tooltip1": "tonnes de poids vif",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Les captures de poissons couvrent les poissons, mollusques, crustacés et autres animaux aquatiques, les résidus et les plantes aquatiques capturés à toutes fins, par tous types et catégories de navires, d'engins et de pêcheurs, dans les sept zones marines couvertes par la réglementation statistique de l'UE. Elles couvrent les captures dans les zones de pêche hauturière, hauturière, côtière ou en eaux saumâtres. La production issue de l'aquaculture et les captures en eau douce sont exclues.",
+  "textNote": "Les données de 2024 pour l'Espagne, le Portugal et l'Italie sont confidentielles. Les captures de poissons couvrent les poissons, mollusques, crustacés et autres animaux aquatiques, résidus et plantes aquatiques capturés à toutes fins, par tous types et catégories de navires, engins et pêcheurs, dans les sept zones marines légalement couvertes par la réglementation statistique de l'UE. Elles couvrent les captures dans les zones de pêche hauturière, hauturière, côtière ou en eaux saumâtres. La production issue de l'aquaculture et les captures en eau douce sont exclues.",
   "textDataAccess": "Accéder aux données",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/fish_ca_main/default/table?lang=fr",
   "textCountryClick": "Cliquez pour plus d'informations"

@@ -1,12 +1,12 @@
 {
   "heading": "Hoe groot was de visvangst in de EU27?",
-  "subheading": "In 2023 wordt de EU-vangst geschat op 3,3 miljoen ton levend gewicht. Dit is een voortzetting van de dalende trend van 28,6% sinds 2018.",
+  "subheading": "In 2024 wordt de EU-vangst geschat op 1,9 miljoen ton levend gewicht. Dit zet de dalende trend sinds 2018 voort.",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "ton levend gewicht",
   "textSourceDescription": "Bron",
   "textSource": "Eurostat",
   "textNoteDescription": "Opmerking",
-  "textNote": "Visvangsten omvatten vis, weekdieren, schaaldieren en andere waterdieren, residuen en waterplanten die voor alle doeleinden worden gevangen, door alle soorten en klassen vaartuigen, vistuig en vissers, die actief zijn in alle zeven zeegebieden die wettelijk onder de statistische regelgeving van de EU vallen. Visvangsten omvatten vangsten in gebieden met volle zeevisserij, op open zee, aan de kust of in brak water. De productie uit aquacultuur en vangsten in zoet water zijn uitgesloten.",
+  "textNote": "Gegevens uit 2024 voor Spanje, Portugal en Italië zijn vertrouwelijk. De visvangst omvat vis, weekdieren, schaaldieren en andere waterdieren, residuen en waterplanten die voor alle doeleinden worden gevangen, door alle soorten en klassen vaartuigen, vistuig en vissers, die actief zijn in alle zeven zeegebieden die wettelijk onder de statistische regelgeving van de EU vallen. De vangsten worden gedaan in gebieden waar op volle zee wordt gevist, op open zee, aan de kust of in brak water. De productie uit aquacultuur en de vangst in zoet water zijn uitgesloten.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/fish_ca_main/default/table?lang=en",
   "textCountryClick": "Klik voor meer informatie"

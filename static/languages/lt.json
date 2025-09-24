@@ -1,12 +1,12 @@
 {
   "heading": "Koks buvo sugaunamų žuvų kiekis ES 27 šalyse?",
-  "subheading": "2023 m. ES sugaunamų žuvų kiekis, kaip apskaičiuota, siekė 3,3 mln. tonų gyvojo svorio. Tai tęsia 28,6 % mažėjimo tendenciją, užfiksuotą nuo 2018 m.",
+  "subheading": "Apskaičiuota, kad 2024 m. ES sugaunama žuvų kiekis siekė 1,9 mln. tonų gyvojo svorio. Tai tęsia nuo 2018 m. užfiksuotą mažėjimo tendenciją.",
   "legend1": "Nėra duomenų",
   "tooltip1": "tonų gyvojo svorio",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
-  "textNote": "Žuvų laimikis apima žuvis, moliuskus, vėžiagyvius ir kitus vandens gyvūnus, likučius ir vandens augalus, kuriuos įvairiais tikslais sugauna visų tipų ir klasių laivai, įranga ir žvejai, dirbantys visose septyniose jūrų zonose, kurioms taikomi ES statistikos reglamentai. Tai apima laimikį atviros jūros žvejybos rajonuose, atviroje jūroje, pakrantėse arba sūrokuose vandenyse. Akvakultūros produkcija ir laimikis gėlame vandenyje neįtraukiami.",
+  "textNote": "2024 m. Ispanijos, Portugalijos ir Italijos duomenys yra konfidencialūs. Žuvų laimikis apima žuvis, moliuskus, vėžiagyvius ir kitus vandens gyvūnus, likučius ir vandens augalus, kuriuos įvairiais tikslais sugauna visų tipų ir klasių laivai, įranga ir žvejai, dirbantys visose septyniose jūrų zonose, kurioms taikomi ES statistikos reglamentai. Į šį skaičių įeina laimikis atviros jūros žvejybos rajonuose, atviroje jūroje, pakrantėse arba sūrokuose vandenyse. Akvakultūros produkcija ir gėlame vandenyje sugautas kiekis neįtraukiamas.",
   "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/fish_ca_main/default/table?lang=en",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"

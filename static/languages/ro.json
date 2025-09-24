@@ -1,12 +1,12 @@
 {
   "heading": "Care a fost nivelul capturilor de pește în UE-27?",
-  "subheading": "În 2023, capturile UE sunt estimate la 3,3 milioane de tone greutate vie. Aceasta continuă tendința descendentă de 28,6% înregistrată din 2018.",
+  "subheading": "În 2024, capturile UE sunt estimate la 1,9 milioane de tone greutate vie. Aceasta continuă tendința descendentă înregistrată din 2018.",
   "legend1": "Nu sunt disponibile date",
   "tooltip1": "tone greutate vie",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Capturile de pește cuprind peștii, moluștele, crustaceele și alte animale acvatice, reziduurile și plantele acvatice care sunt pescuite în orice scop, de către toate tipurile și clasele de nave, echipamente și pescari, operați în toate cele șapte zone marine acoperite din punct de vedere legal de reglementările statistice ale UE. Acestea cuprind capturile din zonele de pescuit în larg, în largul mării, în zonele de coastă sau în ape sărate. Producția din acvacultură și capturile în apă dulce sunt excluse.",
+  "textNote": "Datele din 2024 pentru Spania, Portugalia și Italia sunt confidențiale. Capturile de pește includ pești, moluște, crustacee și alte animale acvatice, reziduuri și plante acvatice care sunt pescuite în toate scopurile, de către toate tipurile și clasele de nave, echipamente și pescari, operați în toate cele șapte zone marine acoperite din punct de vedere legal de reglementările statistice ale UE. Acestea acoperă capturile din zonele de pescuit în larg, în largul mării, în zonele de coastă sau în ape sărate. Producția din acvacultură și capturile în apă dulce sunt excluse.",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/fish_ca_main/default/table?lang=ro",
   "textCountryClick": "Faceți clic pentru mai multe informații"

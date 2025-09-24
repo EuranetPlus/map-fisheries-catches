@@ -1,12 +1,12 @@
 {
   "heading": "Mekkora volt a halfogások szintje az EU27-ben?",
-  "subheading": "2023-ban az EU fogása élősúlyban 3,3 millió tonnára becsülhető. Ez folytatja a 2018 óta feljegyzett 28,6%-os csökkenő tendenciát.",
+  "subheading": "2024-ben az EU fogása élősúlyban 1,9 millió tonnára becsülhető. Ez folytatja a 2018 óta tartó csökkenő tendenciát.",
   "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "tonna élősúly",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
   "textNoteDescription": "Jegyzet",
-  "textNote": "A halfogás magában foglalja a halakat, puhatestűeket, rákféléket és más vízi állatokat, maradványokat és vízinövényeket, amelyeket bármilyen célra kifognak, minden típusú és osztályú hajó, felszerelés és halász, akiket az EU statisztikai szabályozása által jogilag lefedett mind a hét tengeri területen működtetnek. Magában foglalja a nyílt tengeri halászati területeken, a tengeri, a part menti vagy a brakkvízi területeken fogott fogásokat. Az akvakultúra-termelés és az édesvízi fogások nem tartoznak ide.",
+  "textNote": "A 2024-es spanyol, portugál és olasz adatok bizalmasak. A halfogás magában foglalja a halakat, puhatestűeket, rákféléket és más vízi állatokat, maradványokat és vízinövényeket, amelyeket bármilyen célra kifognak, minden típusú és osztályú hajó, felszerelés és halász, akiket az uniós statisztikai szabályozások által jogilag lefedett mind a hét tengeri területen működtetnek. Magában foglalja a nyílt tengeri halászati területeken, a tengeri, a part menti vagy a brakkvízi területeken fogott fogásokat. Az akvakultúra-termelés és az édesvízi fogások nem tartoznak ide.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/fish_ca_main/default/table?lang=en",
   "textCountryClick": "Kattintson a további információkért"

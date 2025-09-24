@@ -1,12 +1,12 @@
 {
   "heading": "Kakšna je bila raven ulova rib v EU-27?",
-  "subheading": "Ulov v EU je leta 2023 ocenjen na 3,3 milijona ton žive teže. To nadaljuje trend upadanja za 28,6 %, ki je bil zabeležen od leta 2018.",
+  "subheading": "Ulov v EU je leta 2024 ocenjen na 1,9 milijona ton žive teže. To nadaljuje trend upadanja, ki ga beležimo od leta 2018.",
   "legend1": "Ni na voljo podatkov",
   "tooltip1": "tone žive teže",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat",
   "textNoteDescription": "Opomba",
-  "textNote": "Ulov rib zajema ribe, mehkužce, rake in druge vodne živali, ostanke in vodne rastline, ki jih lovijo za vse namene vse vrste in razrede plovil, orodij in ribiči, ki delujejo na vseh sedmih morskih območjih, ki jih zakonito zajemajo statistični predpisi EU. Zajema ulov na ribolovnih območjih odprtega morja, na odprtem morju, v obalnih območjih ali območjih s brakično vodo. Proizvodnja iz akvakulture in ulov v sladki vodi sta izključena.",
+  "textNote": "Podatki za leto 2024 za Španijo, Portugalsko in Italijo so zaupni. Ulov rib zajema ribe, mehkužce, rake in druge vodne živali, ostanke in vodne rastline, ki jih lovijo za vse namene, vse vrste in razredi plovil, orodij in ribiči, ki delujejo na vseh sedmih morskih območjih, ki jih zakonito zajemajo statistični predpisi EU. Zajemajo ulov na ribolovnih območjih odprtega morja, na odprtem morju, v obalnih območjih ali območjih s brakično vodo. Proizvodnja iz akvakulture in ulov v sladki vodi sta izključena.",
   "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/fish_ca_main/default/table?lang=en",
   "textCountryClick": "Kliknite za več informacij"

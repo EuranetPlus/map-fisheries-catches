@@ -1,12 +1,12 @@
 {
   "heading": "Hur stor var fiskfångsterna i EU27?",
-  "subheading": "År 2023 uppskattas EU:s fångster till 3,3 miljoner ton levande vikt. Detta fortsätter den nedåtgående trenden på 28,6 % som registrerats sedan 2018.",
+  "subheading": "År 2024 uppskattas EU:s fångster till 1,9 miljoner ton levande vikt. Detta fortsätter den nedåtgående trenden som registrerats sedan 2018.",
   "legend1": "Inga data tillgängliga",
   "tooltip1": "ton levande vikt",
   "textSourceDescription": "Källa",
   "textSource": "Eurostat",
   "textNoteDescription": "Notera",
-  "textNote": "Fiskfångster omfattar fisk, blötdjur, kräftdjur och andra vattenlevande djur, restprodukter och vattenväxter som fångas för alla ändamål, av alla typer och klasser av fartyg, redskap och fiskare, som används i alla de sju marina områden som lagligen omfattas av EU:s statistikförordningar. De omfattar fångster i områden med högt havsfiske, till havs, kustnära eller bräckt vatten. Produktion från vattenbruk och fångster i sötvatten är undantagna.",
+  "textNote": "Uppgifter för Spanien, Portugal och Italien för 2024 är konfidentiella. Fiskfångsterna omfattar fisk, blötdjur, kräftdjur och andra vattenlevande djur, restprodukter och vattenväxter som fångas för alla ändamål, av alla typer och klasser av fartyg, redskap och fiskare, som används i alla de sju marina områden som lagligen omfattas av EU:s statistikförordningar. De omfattar fångster i områden med högt havsfiske, till havs, kustnära eller bräckt vatten. Produktion från vattenbruk och fångster i sötvatten är undantagna.",
   "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/fish_ca_main/default/table?lang=en",
   "textCountryClick": "Klicka för mer information"

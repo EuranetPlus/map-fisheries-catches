@@ -1,12 +1,12 @@
 {
   "heading": "Milline oli kalasaagi tase EL 27-s?",
-  "subheading": "2023. aastal hinnati ELi saagiks 3,3 miljonit tonni eluskaalus. See jätkab alates 2018. aastast registreeritud 28,6% langustrendi.",
+  "subheading": "2024. aastal hinnati ELi saagiks 1,9 miljonit tonni eluskaalus. See jätkab alates 2018. aastast registreeritud langustrendi.",
   "legend1": "Andmed pole saadaval",
   "tooltip1": "tonni eluskaalu",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
   "textNoteDescription": "Märkus",
-  "textNote": "Kalasaak hõlmab kalu, molluskeid, koorikloomi ja muid veeloomi, jääke ja veetaimi, mis on püütud igasugustel eesmärkidel igat tüüpi ja klassi laevade, püügivahendite ja kalurite poolt kõigis seitsmes merepiirkonnas, mis on ELi statistikaalaste määrustega seaduslikult hõlmatud. See hõlmab saaki avamere kalapüügipiirkondades, avamerel, rannikul või riimvees. Vesiviljeluse toodang ja mageveesaak on välja arvatud.",
+  "textNote": "2024. aasta andmed Hispaania, Portugali ja Itaalia kohta on konfidentsiaalsed. Kalasaak hõlmab kalu, molluskeid, koorikloomi ja muid veeloomi, jääke ja veetaimi, mis on püütud igasugustel eesmärkidel igat tüüpi ja klassi laevade, püügivahendite ja kalurite poolt kõigis seitsmes merepiirkonnas, mis on seaduslikult hõlmatud ELi statistikaalaste eeskirjadega. Need hõlmavad saaki avamere kalapüügipiirkondades, avamerel, rannikul või riimvees. Vesiviljeluse toodang ja mageveesaak on välja arvatud.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/fish_ca_main/default/table?lang=en",
   "textCountryClick": "Lisateabe saamiseks klõpsake"
