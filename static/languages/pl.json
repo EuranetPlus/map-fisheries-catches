@@ -1,12 +1,12 @@
 {
-  "heading": "Jaki był poziom połowów ryb w UE-27?",
-  "subheading": "Szacuje się, że w 2024 roku połowy w UE wyniosą 1,9 miliona ton żywej wagi. Jest to kontynuacja trendu spadkowego obserwowanego od 2018 roku.",
+  "heading": "Jakie są rekordy połowów ryb w Unii Europejskiej?",
+  "subheading": "Szacuje się, że w 2024 r. połowy UE wyniosą 1,9 mln ton masy żywej, co potwierdza tendencję spadkową obserwowaną od 2018 r.",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "ton żywej wagi",
   "textSourceDescription": "Źródło",
   "textSource": "Eurostat",
   "textNoteDescription": "Notatka",
-  "textNote": "Dane za rok 2024 dla Hiszpanii, Portugalii i Włoch są poufne. Połowy ryb obejmują ryby, mięczaki, skorupiaki i inne zwierzęta wodne, pozostałości połowowe i rośliny wodne poławiane w dowolnym celu, przez wszystkie rodzaje i klasy statków, narzędzia połowowe i rybaków, eksploatowanych we wszystkich siedmiu obszarach morskich objętych przepisami statystycznymi UE. Obejmują one połowy na obszarach połowów dalekomorskich, na wodach przybrzeżnych, przybrzeżnych i słonawych. Produkcja z akwakultury i połowy w wodach słodkich są wyłączone.",
+  "textNote": "Dane z 2024 roku dla Hiszpanii, Portugalii i Włoch są poufne. Połowy ryb obejmują ryby, mięczaki, skorupiaki i inne zwierzęta wodne, pozostałości połowowe i rośliny wodne poławiane w dowolnym celu, przez wszystkie rodzaje i klasy statków, narzędzia połowowe i rybaków, eksploatowanych we wszystkich siedmiu obszarach morskich objętych przepisami statystycznymi UE. Obejmują one połowy na obszarach połowów dalekomorskich, na wodach przybrzeżnych, przybrzeżnych i słonawych. Produkcja z akwakultury i połowy w wodach słodkich są wyłączone.",
   "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/fish_ca_main/default/table?lang=en",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
